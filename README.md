@@ -5,8 +5,8 @@ This repository contains the design, implementation, and analysis of a **low-pow
 ---
 ### 📦 Block Diagram of 2×2 Vedic Multiplier
 
-![Block Diagram](<img width="660" height="403" alt="image" src="https://github.com/user-attachments/assets/e016ea6a-5633-4bcb-8d36-75759a78d12c" />
-)
+![2×2 Vedic Multiplier Block Diagram](./Circuit_design_images/2X2 Vedic Multiplier using 14T Full Adder.png)
+
 
 ## **📌 Project Overview**
 
